@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="Renegade_BlackCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackBlueCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackOrangeCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackScaleCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_DarkCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_LightCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_CamoScaleCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GalaxyCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_NavyGoldCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_OrangeLinesCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_PinkCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedScaleCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackBlueDarkCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackGreenCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackPixelCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackYellowPixelCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueCamoPixelCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueGrunge_2CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueGrungeCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BluePixelCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BrightGreenCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_Camo1CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_ForestCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_ForestGreenCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_2CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_3CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_4CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenPixelCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_MilitaryCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_MilitaryCamo_2CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_OrangeCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedGreyCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_PureBlackCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_UKNL_CoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type> 
+<type name="Renegade_WhiteCamoCoyoteBackpack">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  </types>
