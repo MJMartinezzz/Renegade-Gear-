@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="Renegade_BlackMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_BlackBlueCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_BlackYellowPixelMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_BlueGrunge_2MediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_ForestMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_GreenCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_MilitaryCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_OrangeCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_RedCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_HufflepuffMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_BlueWhiteCamoMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_MalachiteGreenMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_PinkPurpleMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_PurpleSuedeMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+    <type name="Renegade_VintageRedMediumTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="Renegade_BlackLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_BlackBlueCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_BlackYellowPixelLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_BlueGrunge_2LargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_ForestLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_GreenCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_MilitaryCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_OrangeCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_RedCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type>
+  <type name="Renegade_HufflepuffLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_BlueWhiteCamoLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_MalachiteGreenLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_PinkPurpleLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_PurpleSuedeLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_VintageRedLargeTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+  </type> 
+  <type name="Renegade_BlackCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_BlackBlueCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_BlackYellowPixelCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_BlueGrunge_2CarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_ForestCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_GreenCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_MilitaryCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_OrangeCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_RedCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_HufflepuffCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_BlueWhiteCamoCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_MalachiteGreenCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_PinkPurpleCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_PurpleSuedeCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Renegade_VintageRedCarTent">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>43200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Industrial" />
+  </type>
+</types>
