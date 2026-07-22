@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="Renegade_BlackAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_PureBlackAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_WhiteCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+<type name="Renegade_BlackBlueAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackOrangeAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackScaleAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_DarkCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_LightCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_CamoScaleAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GalaxyAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_NavyGoldAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_OrangeLinesAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_PinkCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedScaleAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackBlueDarkAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackGreenAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackPixelAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlackYellowPixelAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueCamoPixelAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueGrunge_2AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BlueGrungeAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BluePixelAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_BrightGreenAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_Camo1AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_ForestAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_ForestGreenAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_2AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_3AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamo_4AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_GreenPixelAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_MilitaryCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_MilitaryCamo_2AthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_OrangeCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+<type name="Renegade_RedGreyCamoAthleticShoes">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+</type>
+</types>
